@@ -1,6 +1,6 @@
 #  Hi, I'm Reazul — Senior Software Engineer & Team Lead
 
-A results-driven software engineer with over 10 years of experience in designing, building, and leading scalable web and mobile applications. I specialize in full-stack development, system architecture, and mentoring teams to deliver high-quality software that aligns with business goals. My work spans AI-based solutions, cross-platform apps, and robust backend systems deployed in production environments across Australia, the UK, and Bangladesh.
+A results-driven software engineer with over 11 years of experience in designing, building, and leading scalable web and mobile applications. I specialize in full-stack development, system architecture, and mentoring teams to deliver high-quality software that aligns with business goals. My work spans AI-based solutions, cross-platform apps, and robust backend systems deployed in production environments across Australia, the UK, and Bangladesh.
 
 ---
 
