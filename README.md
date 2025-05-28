@@ -80,7 +80,7 @@ A results-driven software engineer with over 11 years of experience in designing
 
 ---
 
-## 🛠️ Education
+## 🎓 Education & Certifications
 **MBA in MIS (2 yrs)**  
  - Prime University
  - Merit: Batch Topper
@@ -92,6 +92,9 @@ A results-driven software engineer with over 11 years of experience in designing
 **Diploma in CST (4 yrs)**
  - Feni Gov. Computer Institute
  - Merit: Technical Education Board Topper
+
+**Certified Project Manager**
+ - Project Manager Accredited Certification™ (IO4PM™)
 
 ##  Let's Connect
 
