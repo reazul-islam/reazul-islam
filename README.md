@@ -40,7 +40,7 @@ A results-driven software engineer with over 11 years of experience in designing
 ### FullStack Software Engineer — *Ackosoft Ltd* (UK HQ)  
 📍 *Dhaka | Oct 2016 – Mar 2019*
 
-- Developed SaaS solutions including accounting systems and job portals using **Laravel**, **Angular**, and **Vue**.
+- Developed SaaS solutions including accounting systems, e-commerce and job portals using **Laravel**, **Angular**, and **Vue**.
 - Designed modular architecture for features like resume builders and employee management.
 - Handled data modeling and third-party service integration.
 
@@ -61,7 +61,7 @@ A results-driven software engineer with over 11 years of experience in designing
 `System Design` · `Microservices` · `API Design`
 
 **Cloud Platforms**  
-`AWS (S3, EC2, RDS, IAM)` · `GCP` · `DigitalOcean`
+`AWS` · `GCP` · `DigitalOcean`
 
 **DevOps & CI/CD**  
 `GitHub Actions` · `Azure DevOps` · `Docker` · `Linux Server Admin`
@@ -79,6 +79,19 @@ A results-driven software engineer with over 11 years of experience in designing
 `Git` · `Postman` · `Figma` · `VS Code` · `Jira` · `Trello` · `Linear`
 
 ---
+
+## 🛠️ Education
+**MBA in MIS (2 yrs)**  
+ - Prime University
+ - Merit: Batch Topper
+
+**BSc in CSE (4 yrs)**
+ - Daffodil International University
+ - Merit: Top Ten
+
+**Diploma in CST (4 yrs)**
+ - Feni Gov. Computer Institute
+ - Merit: Technical Education Board Topper
 
 ##  Let's Connect
 
